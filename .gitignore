@@ -1,0 +1,18 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+
+# My configurations:
+conf.ini
+
+# Others
+__pycache__
+.ipynb_checkpoints
+*.ipynb
+*.bat
+*.xlsx
+*.cfg
+
